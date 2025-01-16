@@ -1,6 +1,6 @@
 {
   "name": "@roux-xyz/ponder-core",
-  "version": "0.5.12-alpha.0",
+  "version": "0.5.12-alpha.1",
   "description": "An open-source framework for crypto application backends",
   "license": "MIT",
   "type": "module",
@@ -78,7 +78,7 @@
     "vite": "^5.0.7",
     "vite-node": "^1.0.2",
     "vite-tsconfig-paths": "^4.3.1",
-    "zod": "^3.23.8"
+    "zod": "3.23.8"
   },
   "devDependencies": {
     "@types/babel__code-frame": "^7.0.6",
